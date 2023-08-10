@@ -1,5 +1,5 @@
 #include<stdio.h>
-//prints prime numbers from 50 to 100
+// prints prime numbers from 50 to 100
 
 int isPrime(int a);
 
